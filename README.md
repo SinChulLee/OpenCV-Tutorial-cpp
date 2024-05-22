@@ -1,4 +1,4 @@
-# OpenCV_Tutorial
+# OpenCV Tutorial
 C++을 활용한 OpenCV 튜토리얼
 
 # Tutorial Steps
