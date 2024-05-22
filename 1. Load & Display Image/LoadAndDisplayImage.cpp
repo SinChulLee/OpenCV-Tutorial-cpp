@@ -9,26 +9,26 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-    // Read the image file
+    // 이미지 파일 읽기
     Mat image = imread("C:\\Users\\dltls\\OpenCV_C++\\img_dir\\cat.jpg");
 
-    // Check for failure
+    // 파일 읽기에 실패할 경우
     if (image.empty())
     {
         cout << "Could not open or find the image" << endl;
-        cin.get(); // wait for any key press
+        cin.get(); // 키 입력 까지 wait
         return -1;
     }
 
-    String windowName = "The cat"; // Name of the window
+    String windowName = "The cat"; // window 창의 이름
 
-    namedWindow(windowName); // Create a window
+    namedWindow(windowName); // window 생성
 
-    imshow(windowName, image); // Show our image inside the created window.
+    imshow(windowName, image); // 생성된 window에 이미지 표시
 
-    waitKey(0); // Wait for any keystroke in the window
+    waitKey(0); // window에서 키입력까지 wait
 
-    destroyWindow(windowName); // destroy the created window
+    destroyWindow(windowName); // 생성된 window를 destroy
 
     return 0;
 }
