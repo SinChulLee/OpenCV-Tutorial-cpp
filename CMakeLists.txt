@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 
 # 프로젝트명 입력 (특수문자 사용 불가)
 # EX) project(Project_Name)
-project(Play_VideoFromFileOrCamera)
+project(LoadAndDisplayImage)
 
 # OpenCV 찾기
 find_package(OpenCV REQUIRED)
@@ -12,9 +12,9 @@ find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 # 실행 파일 생성
-# EX) add_executable(Project_Name .cpp filename)
-add_executable(Play_VideoFromFileOrCamera Play_VideoFromFileOrCamera.cpp)
+# EX) add_executable(Project_Name .cpp file경로)
+add_executable(LoadAndDisplayImage "1. Load & Display Image/LoadAndDisplayImage.cpp")
 
 # OpenCV 라이브러리 링크
 # EX) target_link_libraries(Project_Name ${OpenCV_LIBS})
-target_link_libraries(Play_VideoFromFileOrCamera ${OpenCV_LIBS})
+target_link_libraries(LoadAndDisplayImage ${OpenCV_LIBS})
