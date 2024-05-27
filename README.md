@@ -2,6 +2,8 @@
 C++을 활용한 OpenCV 튜토리얼
 
 # Tutorial Steps
+프로젝트를 실행하기 위한 환경 설정은 setting for ~ 링크 참고.
+각 chapter별 진행은 아래 링크의 설명을 참고.
 - [setting for VScode(C++)](https://comfortable-carnation-df7.notion.site/C-2cb79a033b4f478598343bcb590dd040?pvs=4)
 - [setting for VScode(OpenCV)](https://comfortable-carnation-df7.notion.site/OpenCV-aaa8848aa10d4660a4a5c1c0041bae55?pvs=4)
 - [chapter 01](https://comfortable-carnation-df7.notion.site/Load-Display-Image-e39c210bc2394a4e86ef744e30fcfd65?pvs=4)
