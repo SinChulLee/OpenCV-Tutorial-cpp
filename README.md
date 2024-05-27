@@ -11,6 +11,7 @@ C++을 활용한 OpenCV 튜토리얼
 - [chapter 03](https://comfortable-carnation-df7.notion.site/Save-Images-Videos-to-File-54a9ea72708a46549c3ed9d8e75ff68d?pvs=4)
 - [chapter 04](https://comfortable-carnation-df7.notion.site/Change-Brightness-61a7a676416d442a8923885ac355ede7?pvs=4)
 - [chapter 05](https://comfortable-carnation-df7.notion.site/Change-Contrast-5b05db1b240c445e9d6bc0e28af912f7?pvs=4)
+- [chapter 06](https://comfortable-carnation-df7.notion.site/Histogram-Equalization-cc67c23ab6c8446e8900d7937d7b4411?pvs=4)
 
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
