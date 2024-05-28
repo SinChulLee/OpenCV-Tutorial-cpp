@@ -13,7 +13,9 @@ C++을 활용한 OpenCV 튜토리얼
 - [chapter 05](https://comfortable-carnation-df7.notion.site/Change-Contrast-5b05db1b240c445e9d6bc0e28af912f7?pvs=4)
 - [chapter 06](https://comfortable-carnation-df7.notion.site/Histogram-Equalization-cc67c23ab6c8446e8900d7937d7b4411?pvs=4)
 - [chapter 07](https://comfortable-carnation-df7.notion.site/Filter-Images-and-Videos-7743abfca7c04aa88fe7bd1a9861d35b?pvs=4) 
-  - [chapter 7-1](https://comfortable-carnation-df7.notion.site/Homogeneous-Blur-3829afd85a0c41848443643f59eb2a44?pvs=4) 
+  - [chapter 7-1](https://comfortable-carnation-df7.notion.site/Homogeneous-Blur-3829afd85a0c41848443643f59eb2a44?pvs=4)
+  - [chapter 7-2](https://comfortable-carnation-df7.notion.site/Gaussian-Blur-e07a91f40977456eb92c011dbf025c4e?pvs=4)
+  - [chapter 7-3](https://comfortable-carnation-df7.notion.site/Invert-Images-and-Videos-d2c9bb6499964284abaffd3bb25db011?pvs=4)
   
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
