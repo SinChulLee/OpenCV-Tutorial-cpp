@@ -16,6 +16,8 @@ C++을 활용한 OpenCV 튜토리얼
   - [chapter 7-1](https://comfortable-carnation-df7.notion.site/Homogeneous-Blur-3829afd85a0c41848443643f59eb2a44?pvs=4)
   - [chapter 7-2](https://comfortable-carnation-df7.notion.site/Gaussian-Blur-e07a91f40977456eb92c011dbf025c4e?pvs=4)
   - [chapter 7-3](https://comfortable-carnation-df7.notion.site/Invert-Images-and-Videos-d2c9bb6499964284abaffd3bb25db011?pvs=4)
+- chapter 08
+  -  [chapter 8-1](https://comfortable-carnation-df7.notion.site/Erode-Images-and-Videos-9aadadffcfb942b19b8e615ded0dfbc7?pvs=4)
   
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
