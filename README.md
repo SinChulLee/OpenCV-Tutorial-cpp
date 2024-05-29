@@ -18,6 +18,7 @@ C++을 활용한 OpenCV 튜토리얼
   - [chapter 7-3](https://comfortable-carnation-df7.notion.site/Invert-Images-and-Videos-d2c9bb6499964284abaffd3bb25db011?pvs=4)
 - chapter 08
   -  [chapter 8-1](https://comfortable-carnation-df7.notion.site/Erode-Images-and-Videos-9aadadffcfb942b19b8e615ded0dfbc7?pvs=4)
+  -  [chapter 8-2(Dilate Images and Videos)](https://comfortable-carnation-df7.notion.site/Dilate-Images-and-Videos-f685ec6be3da415488fe1b32fcfd536d?pvs=4)
   
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
