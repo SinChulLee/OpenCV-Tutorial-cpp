@@ -20,6 +20,7 @@ C++을 활용한 OpenCV 튜토리얼
   -  [chapter 8-1(Erode Images and Videos)](https://comfortable-carnation-df7.notion.site/Erode-Images-and-Videos-9aadadffcfb942b19b8e615ded0dfbc7?pvs=4)
   -  [chapter 8-2(Dilate Images and Videos)](https://comfortable-carnation-df7.notion.site/Dilate-Images-and-Videos-f685ec6be3da415488fe1b32fcfd536d?pvs=4)
 - [chapter 09(Trackbar)](https://comfortable-carnation-df7.notion.site/Trackbar-ff566967616f44d295874f775148a529?pvs=4)
+- [chapter 10(Detect Mouse Clicks and Moves)](https://comfortable-carnation-df7.notion.site/Detect-Mouse-Clicks-and-Moves-1c169ccc089e4f75aedcdc5bfb8454c8?pvs=4)
   
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
