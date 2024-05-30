@@ -23,7 +23,7 @@ C++을 활용한 OpenCV 튜토리얼
 - [chapter 10(Detect Mouse Clicks and Moves)](https://comfortable-carnation-df7.notion.site/Detect-Mouse-Clicks-and-Moves-1c169ccc089e4f75aedcdc5bfb8454c8?pvs=4)
 - [chapter 11(Rotate Image & Video)](https://comfortable-carnation-df7.notion.site/Rotate-Image-Video-579020e495894f8589c945a9bd643252?pvs=4)
 - [chapter 12(Color Detection & Object Tracking)](https://comfortable-carnation-df7.notion.site/Color-Detection-Object-Tracking-e97adca30ebd44449c52fd6ccb109631?pvs=4)
-- chapter 13(Shape Detection & Tracking using Contours)
+- [chapter 13(Shape Detection & Tracking using Contours)](https://comfortable-carnation-df7.notion.site/Shape-Detection-Tracking-using-Contours-2057fc87767c4470b8a967012fffb41d?pvs=4)
   
 # Reference
 - [OpenCV Tutorial C++](https://www.opencv-srf.com/p/opencv-lessons.html)
